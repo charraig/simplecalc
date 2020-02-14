@@ -714,7 +714,7 @@ description = "A rewrite of the builtin doctest module"
 name = "xdoctest"
 optional = false
 python-versions = "*"
-version = "0.9.1"
+version = "0.11.0"
 
 [package.dependencies]
 six = "*"
@@ -735,7 +735,7 @@ more-itertools = "*"
 doc = ["sphinx", "sphinx_rtd_theme", "m2r"]
 
 [metadata]
-content-hash = "80ed24b4a82a7cdb5042bf77014241ab0140366d915af96b4c1d391d452dc6d8"
+content-hash = "51ea164516750c9e858acc7a421b78a334eedb033784005c8a35dcea699d329d"
 python-versions = "^3.6"
 
 [metadata.hashes]
@@ -809,5 +809,5 @@ typed-ast = ["1170afa46a3799e18b4c977777ce137bb53c7485379d9706af8a59f2ea1aa161",
 urllib3 = ["a8a318824cc77d1fd4b2bec2ded92646630d7fe8619497b142c84a9e6f5a7293", "f3c5fd51747d450d4dcf6f923c81f78f811aab8205fda64b0aba34a4e48b0745"]
 virtualenv = ["116655188441670978117d0ebb6451eb6a7526f9ae0796cc0dee6bd7356909b0", "b57776b44f91511866594e477dd10e76a6eb44439cdd7f06dcd30ba4c5bd854f"]
 wcwidth = ["8fd29383f539be45b20bd4df0dc29c20ba48654a41e661925e612311e9f3c603", "f28b3e8a6483e5d49e7f8949ac1a78314e740333ae305b4ba5defd3e74fb37a8"]
-xdoctest = ["47e78119ea0533cd8ec35ad0d3abd277a546c3af3a28479177f784757ec5e7f6", "6f6becc459b1403cca0ee386e523f860e1e7d51c92719519afc7eaa181088e9e"]
+xdoctest = ["292d8c0e8de9bcab6ce3fa5009da445278ce343c744aa2ae260710f924c5242e", "71951c60bb8b15fdf3c368c5636a6bbbd658ef5c2e5949e784adf5e1a1275fbd"]
 zipp = ["3718b1cbcd963c7d4c5511a8240812904164b7f381b647143a89d3b98f9bcd8e", "f06903e9f1f43b12d371004b4ac7b06ab39a44adc747266928ae6debfa7b3335"]
