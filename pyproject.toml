@@ -33,7 +33,7 @@ black = {version = "^19.3b0", allows-prereleases = true}
 isort = {version = "^4.3", extras = ["pyproject"]}
 seed-isort-config = "^1.9"
 pytest-cov = "^2.7"
-pytest-mock = "^1.10"
+pytest-mock = "^2.0"
 coverage = "^5.0"
 tox = "^3.14"
 towncrier = "^19.2"
